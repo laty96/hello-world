@@ -1,0 +1,91 @@
+<VAST xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="4.0"
+  xsi:noNamespaceSchemaLocation="vast.xsd">
+  <Ad id="k3i7xz82">
+    <Wrapper>
+      <AdSystem version="2.0">AdMicro</AdSystem>
+      <VASTAdTagURI>
+      <![CDATA[https://127.0.0.1:5500/public/adpod.xml]]>
+    </VASTAdTagURI>
+      <Impression id="AdMicro">
+      <![CDATA[]]>
+    </Impression>
+      <Error>
+      <![CDATA[]]>
+    </Error>
+      <Creatives>
+        <Creative AdID="">
+          <Linear>
+            <AdParameters />
+            <TrackingEvents>
+              <Tracking event="start">
+  <![CDATA[//lg1.logging.admicro.vn/tvccms?dmn=autopro.com.vn/trang-tin-my-khen-video-ong-bo-viet-lam-sieu-xe-go-cho-con-hoan-toan-xung-dang-bo-15-phut-de-xem-177230314180305607.chn&zid=jqp0ympb&pli=k3i7xyx8&cmpg=joxpijb2&items=k3i7xz82&cat=/van-hoa-xe/detail/&cov=101&pgid=8b6c34cdf8c3513bcc38b8fc59601a85&uid=5969548211908340242&dgid=37847d5bcc8c30ddd3b2e452dbbc81be&fr=1]]>
+</Tracking>
+              <Tracking event="midpoint">
+  <![CDATA[//lg1.logging.admicro.vn/tvccms?dmn=autopro.com.vn/trang-tin-my-khen-video-ong-bo-viet-lam-sieu-xe-go-cho-con-hoan-toan-xung-dang-bo-15-phut-de-xem-177230314180305607.chn&zid=jqp0ympb&pli=k3i7xyx8&cmpg=joxpijb2&items=k3i7xz82&cat=/van-hoa-xe/detail/&cov=102&pgid=8b6c34cdf8c3513bcc38b8fc59601a85&uid=5969548211908340242&dgid=37847d5bcc8c30ddd3b2e452dbbc81be&fr=1]]>
+</Tracking>
+              <Tracking event="firstQuartile">
+  <![CDATA[//lg1.logging.admicro.vn/tvccms?dmn=autopro.com.vn/trang-tin-my-khen-video-ong-bo-viet-lam-sieu-xe-go-cho-con-hoan-toan-xung-dang-bo-15-phut-de-xem-177230314180305607.chn&zid=jqp0ympb&pli=k3i7xyx8&cmpg=joxpijb2&items=k3i7xz82&cat=/van-hoa-xe/detail/&cov=103&pgid=8b6c34cdf8c3513bcc38b8fc59601a85&uid=5969548211908340242&dgid=37847d5bcc8c30ddd3b2e452dbbc81be&fr=1]]>
+</Tracking>
+              <Tracking event="thirdQuartile">
+  <![CDATA[//lg1.logging.admicro.vn/tvccms?dmn=autopro.com.vn/trang-tin-my-khen-video-ong-bo-viet-lam-sieu-xe-go-cho-con-hoan-toan-xung-dang-bo-15-phut-de-xem-177230314180305607.chn&zid=jqp0ympb&pli=k3i7xyx8&cmpg=joxpijb2&items=k3i7xz82&cat=/van-hoa-xe/detail/&cov=104&pgid=8b6c34cdf8c3513bcc38b8fc59601a85&uid=5969548211908340242&dgid=37847d5bcc8c30ddd3b2e452dbbc81be&fr=1]]>
+</Tracking>
+              <Tracking event="complete">
+  <![CDATA[//lg1.logging.admicro.vn/tvccms?dmn=autopro.com.vn/trang-tin-my-khen-video-ong-bo-viet-lam-sieu-xe-go-cho-con-hoan-toan-xung-dang-bo-15-phut-de-xem-177230314180305607.chn&zid=jqp0ympb&pli=k3i7xyx8&cmpg=joxpijb2&items=k3i7xz82&cat=/van-hoa-xe/detail/&cov=105&pgid=8b6c34cdf8c3513bcc38b8fc59601a85&uid=5969548211908340242&dgid=37847d5bcc8c30ddd3b2e452dbbc81be&fr=1]]>
+</Tracking>
+              <Tracking event="mute">
+  <![CDATA[//lg1.logging.admicro.vn/tvccms?dmn=autopro.com.vn/trang-tin-my-khen-video-ong-bo-viet-lam-sieu-xe-go-cho-con-hoan-toan-xung-dang-bo-15-phut-de-xem-177230314180305607.chn&zid=jqp0ympb&pli=k3i7xyx8&cmpg=joxpijb2&items=k3i7xz82&cat=/van-hoa-xe/detail/&cov=106&pgid=8b6c34cdf8c3513bcc38b8fc59601a85&uid=5969548211908340242&dgid=37847d5bcc8c30ddd3b2e452dbbc81be&fr=1]]>
+</Tracking>
+              <Tracking event="unmute">
+  <![CDATA[//lg1.logging.admicro.vn/tvccms?dmn=autopro.com.vn/trang-tin-my-khen-video-ong-bo-viet-lam-sieu-xe-go-cho-con-hoan-toan-xung-dang-bo-15-phut-de-xem-177230314180305607.chn&zid=jqp0ympb&pli=k3i7xyx8&cmpg=joxpijb2&items=k3i7xz82&cat=/van-hoa-xe/detail/&cov=107&pgid=8b6c34cdf8c3513bcc38b8fc59601a85&uid=5969548211908340242&dgid=37847d5bcc8c30ddd3b2e452dbbc81be&fr=1]]>
+</Tracking>
+              <Tracking event="pause">
+  <![CDATA[//lg1.logging.admicro.vn/tvccms?dmn=autopro.com.vn/trang-tin-my-khen-video-ong-bo-viet-lam-sieu-xe-go-cho-con-hoan-toan-xung-dang-bo-15-phut-de-xem-177230314180305607.chn&zid=jqp0ympb&pli=k3i7xyx8&cmpg=joxpijb2&items=k3i7xz82&cat=/van-hoa-xe/detail/&cov=108&pgid=8b6c34cdf8c3513bcc38b8fc59601a85&uid=5969548211908340242&dgid=37847d5bcc8c30ddd3b2e452dbbc81be&fr=1]]>
+</Tracking>
+              <Tracking event="rewind">
+  <![CDATA[//lg1.logging.admicro.vn/tvccms?dmn=autopro.com.vn/trang-tin-my-khen-video-ong-bo-viet-lam-sieu-xe-go-cho-con-hoan-toan-xung-dang-bo-15-phut-de-xem-177230314180305607.chn&zid=jqp0ympb&pli=k3i7xyx8&cmpg=joxpijb2&items=k3i7xz82&cat=/van-hoa-xe/detail/&cov=109&pgid=8b6c34cdf8c3513bcc38b8fc59601a85&uid=5969548211908340242&dgid=37847d5bcc8c30ddd3b2e452dbbc81be&fr=1]]>
+</Tracking>
+              <Tracking event="resume">
+  <![CDATA[//lg1.logging.admicro.vn/tvccms?dmn=autopro.com.vn/trang-tin-my-khen-video-ong-bo-viet-lam-sieu-xe-go-cho-con-hoan-toan-xung-dang-bo-15-phut-de-xem-177230314180305607.chn&zid=jqp0ympb&pli=k3i7xyx8&cmpg=joxpijb2&items=k3i7xz82&cat=/van-hoa-xe/detail/&cov=110&pgid=8b6c34cdf8c3513bcc38b8fc59601a85&uid=5969548211908340242&dgid=37847d5bcc8c30ddd3b2e452dbbc81be&fr=1]]>
+</Tracking>
+              <Tracking event="fullscreen">
+  <![CDATA[//lg1.logging.admicro.vn/tvccms?dmn=autopro.com.vn/trang-tin-my-khen-video-ong-bo-viet-lam-sieu-xe-go-cho-con-hoan-toan-xung-dang-bo-15-phut-de-xem-177230314180305607.chn&zid=jqp0ympb&pli=k3i7xyx8&cmpg=joxpijb2&items=k3i7xz82&cat=/van-hoa-xe/detail/&cov=111&pgid=8b6c34cdf8c3513bcc38b8fc59601a85&uid=5969548211908340242&dgid=37847d5bcc8c30ddd3b2e452dbbc81be&fr=1]]>
+</Tracking>
+              <Tracking event="collapse">
+  <![CDATA[//lg1.logging.admicro.vn/tvccms?dmn=autopro.com.vn/trang-tin-my-khen-video-ong-bo-viet-lam-sieu-xe-go-cho-con-hoan-toan-xung-dang-bo-15-phut-de-xem-177230314180305607.chn&zid=jqp0ympb&pli=k3i7xyx8&cmpg=joxpijb2&items=k3i7xz82&cat=/van-hoa-xe/detail/&cov=112&pgid=8b6c34cdf8c3513bcc38b8fc59601a85&uid=5969548211908340242&dgid=37847d5bcc8c30ddd3b2e452dbbc81be&fr=1]]>
+</Tracking>
+              <Tracking event="close">
+  <![CDATA[//lg1.logging.admicro.vn/tvccms?dmn=autopro.com.vn/trang-tin-my-khen-video-ong-bo-viet-lam-sieu-xe-go-cho-con-hoan-toan-xung-dang-bo-15-phut-de-xem-177230314180305607.chn&zid=jqp0ympb&pli=k3i7xyx8&cmpg=joxpijb2&items=k3i7xz82&cat=/van-hoa-xe/detail/&cov=114&pgid=8b6c34cdf8c3513bcc38b8fc59601a85&uid=5969548211908340242&dgid=37847d5bcc8c30ddd3b2e452dbbc81be&fr=1]]>
+</Tracking>
+
+            </TrackingEvents>
+            <VideoClicks>
+              <ClickTracking id="AdMicro">
+              <![CDATA[]]>
+            </ClickTracking>
+            </VideoClicks>
+          </Linear>
+        </Creative>
+      </Creatives>
+      <Extensions>
+        <Extension type="AdMicro">
+          <AdServingData>
+            <DeliveryData>
+              <Thumbnail></Thumbnail>
+              <TitleBar>
+              <![CDATA[]]>
+            </TitleBar>
+              <CustomClickThrough>
+              <![CDATA[]]>
+            </CustomClickThrough>
+              <CustomTracking>
+              <![CDATA[]]>
+            </CustomTracking>
+              <Frequency></Frequency>
+            </DeliveryData>
+          </AdServingData>
+        </Extension>
+      </Extensions>
+    </Wrapper>
+  </Ad>
+
+</VAST>
