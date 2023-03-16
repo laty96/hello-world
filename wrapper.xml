@@ -4,7 +4,7 @@
     <Wrapper>
       <AdSystem version="2.0">AdMicro</AdSystem>
       <VASTAdTagURI>
-      <![CDATA[https://127.0.0.1:5500/public/adpod.xml]]>
+      <![CDATA[https://raw.githubusercontent.com/laty96/hello-world/master/adpod.xml]]>
     </VASTAdTagURI>
       <Impression id="AdMicro">
       <![CDATA[]]>
